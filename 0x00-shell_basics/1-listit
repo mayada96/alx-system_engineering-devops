@@ -1,2 +1,2 @@
 #!/bin/bash
-cat contents
+ls oxoo-shell_basics
